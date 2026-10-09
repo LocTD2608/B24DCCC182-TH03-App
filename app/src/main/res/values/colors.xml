@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Color Palette -->
+    <color name="colorPrimary">#6750A4</color>
+    <color name="colorPrimaryDark">#4F378B</color>
+    <color name="colorAccent">#EADDFF</color>
+    
+    <color name="colorBackground">#F4F5F7</color>
+    <color name="colorCardBackground">#FFFFFF</color>
+    
+    <color name="textColorPrimary">#1D1B20</color>
+    <color name="textColorSecondary">#49454F</color>
+    <color name="textColorTertiary">#79747E</color>
+    
+    <!-- Button Colors -->
+    <color name="btnSuccess">#4CAF50</color>
+    <color name="btnDanger">#E53935</color>
+    <color name="btnSecondary">#757575</color>
+    
+    <color name="dividerColor">#CAC4D0</color>
+</resources>
